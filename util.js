@@ -1,3 +1,4 @@
+//科学计数法转字符串数字
 const getNumberString = number => {
 	let st = number.toString().toLowerCase();
 	let res = "";
